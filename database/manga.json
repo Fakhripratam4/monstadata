@@ -1,0 +1,43 @@
+// manga.json V1.0 Rev 0
+{
+  "manga_id": "mdpr-001",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "Return of the Unrivaled Spear Knight / Regresi Pembunuh Naga Tanpa Tanding",
+  "status": "Ongoing",
+  "author": "Baek-su Noble",
+  "artist": "Studio Inus",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Setelah kehilangan segalanya dalam pertempuran terakhir melawan penguasa naga, pahlawan terakhir umat manusia secara ajaib kembali ke masa lalu. Berbekal ingatan, pengalaman tempur, dan penyesalannya, ia bersumpah untuk mengubah takdir dan membantai semua naga sebelum mereka menghancurkan dunia untuk kedua kalinya.",
+  "cover_url": "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/covers/mdpr-001-cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kematian dan Permulaan Baru",
+      "images": [
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/mdpr-001/ch-001/page-01.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/mdpr-001/ch-001/page-02.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/mdpr-001/ch-001/page-03.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/mdpr-001/ch-001/page-04.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Ujian Pertama di Akademi",
+      "images": [
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/mdpr-001/ch-002/page-01.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/mdpr-001/ch-002/page-02.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/mdpr-001/ch-002/page-03.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/mdpr-001/ch-002/page-04.jpg"
+      ]
+    }
+  ]
+}
