@@ -1,93 +1,79 @@
 {
-  "_schema_version": "monstacomic-v3.9",
-  "_last_updated": "2026-06-06",
-
+  "_schema_version": "MonstaComic V3.9 — Data Schema Rev 0",
+  "_last_updated": "2026-06-13",
   "manga_id": "dragonslayer-peerless-regression",
   "title": "A Dragonslayer's Peerless Regression",
   "alternative_title": [
-    "용사냥꾼의 독보적인 회귀",
-    "Yongsanyangkkun-ui Dokbojeogin Hoegwi",
-    "The Dragon Hunter's Unrivaled Regression"
+    "용사 죽이기",
+    "Killing the Hero",
+    "Dragonslayer Regression"
   ],
   "status": "Ongoing",
-  "author": "Cheong Myungsu",
-  "artist": "Studio GIGA",
+  "author": "D-Dart",
+  "artist": "D-Dart",
   "genres": [
     "Action",
     "Adventure",
     "Fantasy",
     "Regression",
-    "Manhwa",
-    "Martial Arts",
+    "System",
     "Overpowered Protagonist"
   ],
   "type": "Manhwa",
   "release_year": 2023,
-  "rating": 4.7,
-  "synopsis": "Kain, sang pembunuh naga terhebat di dunia, telah memberikan segalanya demi mengalahkan Raja Naga yang tak terkalahkan. Namun, di detik-detik kemenangan itu, ia justru dikhianati oleh mereka yang ia lindungi dan mati secara mengenaskan. Takdir berpihak padanya — ia terlahir kembali ke masa lalu, 20 tahun sebelum perang besar itu dimulai. Kali ini, dengan semua ingatan, kekuatan, dan trauma masa depan yang ia bawa, Kain akan membuktikan bahwa tidak ada yang bisa menyentuhnya — bukan manusia, bukan naga, dan pasti bukan para pengkhianat itu.",
-  "cover_url": "https://raw.githubusercontent.com/monstacomic/assets/main/covers/dragonslayer-peerless-regression/cover.jpg",
+  "rating": 8.7,
+  "synopsis": "Oskar, the greatest dragonslayer of his era, sacrificed everything to seal the Demon King — only to be betrayed and executed by the very heroes he fought alongside. Now, hurled back in time to the moment before it all began, Oskar returns not as a savior, but as a predator. With memories of every battlefield, every betrayal, and every secret the world tried to bury, he will carve his own path — peerless, ruthless, and utterly unstoppable.",
+  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/covers/dragonslayer-peerless-regression/cover.jpg",
   "chapters": [
     {
       "chapter_number": 1,
-      "chapter_title": "Kelahiran Kembali Sang Pembunuh Naga",
-      "uploaded_at": "2023-04-10",
-      "pages": [
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/001.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/002.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/003.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/004.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/005.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/006.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/007.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/008.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/009.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/010.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/011.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/012.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/013.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/014.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch001/015.jpg"
+      "chapter_title": "The Dragonslayer Returns",
+      "date_uploaded": "2023-04-10",
+      "images": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/001.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/002.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/003.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/004.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/005.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/006.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/007.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/008.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/009.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/010.jpg"
       ]
     },
     {
       "chapter_number": 2,
-      "chapter_title": "Dunia yang Terlalu Lemah",
-      "uploaded_at": "2023-04-17",
-      "pages": [
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/001.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/002.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/003.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/004.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/005.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/006.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/007.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/008.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/009.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/010.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/011.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/012.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch002/013.jpg"
+      "chapter_title": "The World I Remember",
+      "date_uploaded": "2023-04-17",
+      "images": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/001.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/002.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/003.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/004.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/005.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/006.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/007.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/008.jpg"
       ]
     },
     {
       "chapter_number": 3,
-      "chapter_title": "Pertemuan Pertama dengan Para Pengkhianat",
-      "uploaded_at": "2023-04-24",
-      "pages": [
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/001.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/002.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/003.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/004.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/005.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/006.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/007.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/008.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/009.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/010.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/011.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/012.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/013.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/dragonslayer-peerless-regression/ch003/014.jpg"
+      "chapter_title": "First Blood",
+      "date_uploaded": "2023-04-24",
+      "images": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/001.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/002.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/003.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/004.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/005.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/006.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/007.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/008.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/009.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/010.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/011.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/012.jpg"
       ]
     }
   ]
