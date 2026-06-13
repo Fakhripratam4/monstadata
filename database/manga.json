@@ -1,80 +1,71 @@
-{
-  "_schema_version": "MonstaComic V3.9 — Data Schema Rev 0",
-  "_last_updated": "2026-06-13",
-  "manga_id": "dragonslayer-peerless-regression",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": [
-    "용사 죽이기",
-    "Killing the Hero",
-    "Dragonslayer Regression"
-  ],
-  "status": "Ongoing",
-  "author": "D-Dart",
-  "artist": "D-Dart",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression",
-    "System",
-    "Overpowered Protagonist"
-  ],
-  "type": "Manhwa",
-  "release_year": 2023,
-  "rating": 8.7,
-  "synopsis": "Oskar, the greatest dragonslayer of his era, sacrificed everything to seal the Demon King — only to be betrayed and executed by the very heroes he fought alongside. Now, hurled back in time to the moment before it all began, Oskar returns not as a savior, but as a predator. With memories of every battlefield, every betrayal, and every secret the world tried to bury, he will carve his own path — peerless, ruthless, and utterly unstoppable.",
-  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/covers/dragonslayer-peerless-regression/cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "The Dragonslayer Returns",
-      "date_uploaded": "2023-04-10",
-      "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/001.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/002.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/003.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/004.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/005.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/006.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/007.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/008.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/009.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-001/010.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "The World I Remember",
-      "date_uploaded": "2023-04-17",
-      "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/001.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/002.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/003.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/004.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/005.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/006.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/007.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-002/008.jpg"
-      ]
-    },
-    {
-      "chapter_number": 3,
-      "chapter_title": "First Blood",
-      "date_uploaded": "2023-04-24",
-      "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/001.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/002.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/003.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/004.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/005.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/006.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/007.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/008.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/009.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/010.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/011.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/chapters/dragonslayer-peerless-regression/ch-003/012.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "manga_id": "Action",
+    "_folder": "Action",
+    "title": "Action",
+    "status": "ongoing",
+    "type": "MANHWA",
+    "cover_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/cover.jpg",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Steel Eating Player",
+        "filename": "Steel-Eating Player.cbz",
+        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/Steel-Eating%20Player.cbz"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "The World After The End",
+        "filename": "The World After The End.cbz",
+        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/The%20World%20After%20The%20End.cbz"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Villain To Kill",
+        "filename": "Villain To Kill.cbz",
+        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/Villain%20To%20Kill.cbz"
+      }
+    ],
+    "_cbz_count": 3
+  },
+  {
+    "manga_id": "Fantacy",
+    "_folder": "Fantacy",
+    "title": "Fantacy",
+    "status": "ongoing",
+    "type": "MANHWA",
+    "cover_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Fantacy/cover.jpg",
+    "chapters": [
+      {
+        "chapter_number": 999,
+        "chapter_title": "Level 999 Goblin",
+        "filename": "Level 999 Goblin.cbz",
+        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Fantacy/Level%20999%20Goblin.cbz"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "The Nebula S Civilization",
+        "filename": "The Nebula_s Civilization.cbz",
+        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Fantacy/The%20Nebula_s%20Civilization.cbz"
+      }
+    ],
+    "_cbz_count": 2
+  },
+  {
+    "manga_id": "Romance",
+    "_folder": "Romance",
+    "title": "Romance",
+    "status": "ongoing",
+    "type": "MANHWA",
+    "cover_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Romance/cover.jpg",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "The Executioner",
+        "filename": "The Executioner.cbz",
+        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Romance/The%20Executioner.cbz"
+      }
+    ],
+    "_cbz_count": 1
+  }
+]
