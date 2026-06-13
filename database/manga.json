@@ -1,69 +1,102 @@
 [
   {
-    "manga_id": "Action",
-    "_folder": "Action",
-    "title": "Action",
-    "status": "ongoing",
+    "manga_id": "Fantacy/Level 999 Goblin.cbz",
+    "_folder": "Fantacy",
+    "title": "Level 999 Goblin",
+    "status": "completed",
     "type": "MANHWA",
-    "cover_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Fantacy/Level%20999%20Goblin.jpg",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Level 999 Goblin",
+        "filename": "Level 999 Goblin.cbz",
+        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Fantacy/Level%20999%20Goblin.cbz"
+      }
+    ],
+    "_cbz_count": 1
+  },
+  {
+    "manga_id": "Action/Steel-Eating Player.cbz",
+    "_folder": "Action",
+    "title": "Steel Eating Player",
+    "status": "completed",
+    "type": "MANHWA",
+    "cover_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/Steel-Eating%20Player.jpg",
     "chapters": [
       {
         "chapter_number": 1,
         "chapter_title": "Steel Eating Player",
         "filename": "Steel-Eating Player.cbz",
         "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/Steel-Eating%20Player.cbz"
-      },
-      {
-        "chapter_number": 2,
-        "chapter_title": "The World After The End",
-        "filename": "The World After The End.cbz",
-        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/The%20World%20After%20The%20End.cbz"
-      },
-      {
-        "chapter_number": 3,
-        "chapter_title": "Villain To Kill",
-        "filename": "Villain To Kill.cbz",
-        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/Villain%20To%20Kill.cbz"
       }
     ],
-    "_cbz_count": 3
+    "_cbz_count": 1
   },
   {
-    "manga_id": "Fantacy",
-    "_folder": "Fantacy",
-    "title": "Fantacy",
-    "status": "ongoing",
-    "type": "MANHWA",
-    "cover_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Fantacy/cover.jpg",
-    "chapters": [
-      {
-        "chapter_number": 999,
-        "chapter_title": "Level 999 Goblin",
-        "filename": "Level 999 Goblin.cbz",
-        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Fantacy/Level%20999%20Goblin.cbz"
-      },
-      {
-        "chapter_number": 2,
-        "chapter_title": "The Nebula S Civilization",
-        "filename": "The Nebula_s Civilization.cbz",
-        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Fantacy/The%20Nebula_s%20Civilization.cbz"
-      }
-    ],
-    "_cbz_count": 2
-  },
-  {
-    "manga_id": "Romance",
+    "manga_id": "Romance/The Executioner.cbz",
     "_folder": "Romance",
-    "title": "Romance",
-    "status": "ongoing",
+    "title": "The Executioner",
+    "status": "completed",
     "type": "MANHWA",
-    "cover_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Romance/cover.jpg",
+    "cover_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Romance/The%20Executioner.jpg",
     "chapters": [
       {
         "chapter_number": 1,
         "chapter_title": "The Executioner",
         "filename": "The Executioner.cbz",
         "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Romance/The%20Executioner.cbz"
+      }
+    ],
+    "_cbz_count": 1
+  },
+  {
+    "manga_id": "Fantacy/The Nebula_s Civilization.cbz",
+    "_folder": "Fantacy",
+    "title": "The Nebula S Civilization",
+    "status": "completed",
+    "type": "MANHWA",
+    "cover_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Fantacy/The%20Nebula_s%20Civilization.jpg",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "The Nebula S Civilization",
+        "filename": "The Nebula_s Civilization.cbz",
+        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Fantacy/The%20Nebula_s%20Civilization.cbz"
+      }
+    ],
+    "_cbz_count": 1
+  },
+  {
+    "manga_id": "Action/The World After The End.cbz",
+    "_folder": "Action",
+    "title": "The World After The End",
+    "status": "completed",
+    "type": "MANHWA",
+    "cover_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/The%20World%20After%20The%20End.jpg",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "The World After The End",
+        "filename": "The World After The End.cbz",
+        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/The%20World%20After%20The%20End.cbz"
+      }
+    ],
+    "_cbz_count": 1
+  },
+  {
+    "manga_id": "Action/Villain To Kill.cbz",
+    "_folder": "Action",
+    "title": "Villain To Kill",
+    "status": "completed",
+    "type": "MANHWA",
+    "cover_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/Villain%20To%20Kill.jpg",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Villain To Kill",
+        "filename": "Villain To Kill.cbz",
+        "cbz_url": "https://raw.githubusercontent.com/Fakhripratam4/monstadata/main/Action/Villain%20To%20Kill.cbz"
       }
     ],
     "_cbz_count": 1
